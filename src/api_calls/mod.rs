@@ -1,2 +1,2 @@
-pub mod async_await;
 pub mod blocking;
+pub mod non_blocking;
